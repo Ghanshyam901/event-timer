@@ -20,7 +20,7 @@ body{
 
 
 h1{
-    font-size: 70;
+    font-size: 6rem;
     margin-top: 10%;
     color: brown;
 }
@@ -37,4 +37,5 @@ display: flex;
 }
 .countdown-el span{
     font-size: 20;
+    color: rgb(0, 37, 37);
 }
